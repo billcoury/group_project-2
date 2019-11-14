@@ -2,7 +2,7 @@
 An internal hotel management application using Node.js, Express, Sequelize, Handlebars.js and Passport.js
 
 <br>
-![image](https://user-images.githubusercontent.com/51132578/68826435-ccb94400-0652-11ea-810f-e247ed0c09f2.png)
+![image](./public/assets/img/welcome.png)
 
 
 ### About
