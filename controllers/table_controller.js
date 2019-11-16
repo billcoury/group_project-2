@@ -27,7 +27,8 @@ router.post('/tables', function(req, res) {
       where: {
         id: req.body.id
       }
-    }).then(function(data) {
+    }).catch(function(err){console.log("something went wrong")})
+    .then(function(data) {
       res.redirect('/tables');
     });
   });
