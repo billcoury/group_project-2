@@ -9,15 +9,15 @@
   "test": {
     "username": "root",
     "password": "gbv1fk88",
-    "database": "database_test",
+    "database": "hotel_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
     "password": "gbv1fk88",
-    "database": "database_test",
-    "host": "gp96xszpzlqupw4k.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+    "database": "hotel_db",
+    "host": "kf3k4aywsrp0d2is.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
