@@ -36,7 +36,7 @@ The manager view is hidden from the main view. The Manager Portal route is: `/ad
 Managers need to be signed up to login. Mangers can view room availability, check in and check out guests, and view current reservations at the restaurant.<br>
 ![admin_login](https://user-images.githubusercontent.com/51132578/69000304-1f2c7780-0882-11ea-80f3-66e70020b8dd.PNG)
 <br>
-<img src="./public/assets/img/admin_rooms.png" width="500px">
+![admin_rooms](https://user-images.githubusercontent.com/51132578/69000305-22276800-0882-11ea-88bc-476b1e1611f5.PNG)
 
 You must create an admin login to use.
 
