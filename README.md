@@ -32,6 +32,7 @@ They can also select a service from the sap and book an appointment:<br>
 ### Manager View
 The manager view is hidden from the main view. The Manager Portal route is: `/admin`
 <br>
+![management_menu](https://user-images.githubusercontent.com/51132578/69000301-13d94c00-0882-11ea-92f3-c2e98873a6a3.PNG)
 Managers need to be signed up to login. Mangers can view room availability, check in and check out guests, and view current reservations at the restaurant.<br>
 <img src="./public/assets/img/admin_login.png" width="500px"><br><br>
 <br>
