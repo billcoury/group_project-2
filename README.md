@@ -1,6 +1,8 @@
 # Luxe Resort
 An internal hotel management application using Node.js, Express, Sequelize, Handlebars.js and Passport.js
 
+Working demo: https://arcane-tundra-64116.herokuapp.com
+
 <br>
 
 ![welcome](https://user-images.githubusercontent.com/51132578/68827521-1dcb3700-0657-11ea-8af3-00c177510144.PNG)
