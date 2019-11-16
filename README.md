@@ -36,10 +36,6 @@ Managers need to be signed up to login. Mangers can view room availability, chec
 <img src="./public/assets/img/admin_login.png" width="500px"><br><br>
 <br>
 <img src="./public/assets/img/admin_rooms.png" width="500px">
-An admin account has already been created on the demo:
-<br>Email: admin@admin.com
-<br>Password: admin
 
-
-### Demo
+You must create an admin login to use.
 
