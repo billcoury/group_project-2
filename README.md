@@ -20,7 +20,7 @@ Booking a room:
 ![book_a_room](https://user-images.githubusercontent.com/51132578/69000278-cc52c000-0881-11ea-9ccb-a023cf46c84f.PNG)
 
 Once a guest books a room, they can login and view their room info and guest options:<br>
-<img src="./public/assets/img/guest_login.png" width="500px">
+![guest_login](https://user-images.githubusercontent.com/51132578/69000294-0ae87a80-0882-11ea-8b24-03cbb9958247.PNG)
 
 Guests can reserve a table at the restaurant:<br>
 <img src="./public/assets/img/restaurant_reservation.png" width="500px">
