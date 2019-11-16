@@ -17,7 +17,7 @@ Allows managers to view room availability, current guests, checkin and checkout 
 ### Guest View
 Booking a room:
 <br>
-<img src="./public/assets/img/book_a_room.png" width="500px">
+![book_a_room](https://user-images.githubusercontent.com/51132578/69000278-cc52c000-0881-11ea-9ccb-a023cf46c84f.PNG)
 
 Once a guest books a room, they can login and view their room info and guest options:<br>
 <img src="./public/assets/img/guest_login.png" width="500px">
